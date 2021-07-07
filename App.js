@@ -1,7 +1,7 @@
 import React from 'react';
 import { View,StatusBar,SafeAreaView } from 'react-native';
-import Splashscreen from './lib/splashscreen';
-import Home from './lib/home';
+import Splashscreen from './lib/screens/splashscreen';
+import Home from './lib/screens/home';
 
 const App = () => {
   return (
