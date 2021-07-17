@@ -1,6 +1,7 @@
 {
     "stop-message" : "Maaf kami tidak mengerti dengan yang anda katakan",
     "welcome-message" : "Selamat datang di Aplikasi SatuNetra",
+    "welcome-message-name" : "Hai * senang mendengarmu berada disini, tekan bagian tengah layar dan kamu dapat menceritakan apapun yang ingin kamu ceritakan",
     "registration-name" : "Silahkan masukan nama panggilan anda dengan menekan bagian tengah layar smartphone anda kemudian ucapkan nama anda",
     "registration-name-accept" : "Halo * , apakah penyebutan nama anda sudah benar, ketuk layar dan ucapkan YA atau TIDAK",
     "registration-gender" : "Ketuk layar smartphone anda kemudian ucapkan jenis kelamin anda",

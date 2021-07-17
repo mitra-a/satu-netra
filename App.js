@@ -1,15 +1,28 @@
 import React from 'react';
-import { View,StatusBar,SafeAreaView } from 'react-native';
-import Splashscreen from './lib/screens/splashscreen';
-import Home from './lib/screens/home';
+import Splashscreen from './lib/screens/Splashscreen';
+import Home from './lib/screens/Home';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import { StatusBar } from 'react-native';
+
+
+const Stack = createStackNavigator();
 
 const App = () => {
   return (
-    <SafeAreaView style={{flex:1}}>
+    <>
       <StatusBar backgroundColor={'white'} barStyle={'dark-content'} />
-      {/* <Splashscreen /> */}
-      <Home />
-    </SafeAreaView>
+      <NavigationContainer>
+        <Stack.Navigator>
+          <Stack.Screen name="Splashscreen" component={Splashscreen} options={{ headerShown:false }} />
+          <Stack.Screen name="Home" component={Home} options={{ headerShown:false }} />
+        </Stack.Navigator>
+      </NavigationContainer>
+    </>
+    // <SafeAreaView style={{flex:1}}>
+    //   {/* <Splashscreen /> */}
+    //   <Home />
+    // </SafeAreaView>
   )
 }
 
