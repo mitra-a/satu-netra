@@ -19,6 +19,15 @@ target 'SatuNetra' do
 
   pod 'TextToSpeech', :path => '../node_modules/react-native-tts'
 
+
+  pod 'RNAudioStreaming', :path => '../node_modules/react-native-audio-streaming'
+
+  pod 'RNSoundPlayer', :path => '../node_modules/react-native-sound-player'
+
+  pod 'react-native-video', :path => '../node_modules/react-native-video'
+
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
   target 'SatuNetraTests' do
     inherit! :complete
     # Pods for testing
