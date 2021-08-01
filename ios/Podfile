@@ -28,6 +28,8 @@ target 'SatuNetra' do
 
   pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
 
+  pod 'RNExitApp', :path => '../node_modules/react-native-exit-app'
+
   target 'SatuNetraTests' do
     inherit! :complete
     # Pods for testing

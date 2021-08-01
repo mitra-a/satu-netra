@@ -5,7 +5,6 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { StatusBar } from 'react-native';
 
-
 const Stack = createStackNavigator();
 
 const App = () => {
@@ -14,15 +13,18 @@ const App = () => {
       <StatusBar backgroundColor={'white'} barStyle={'dark-content'} />
       <NavigationContainer>
         <Stack.Navigator>
-          <Stack.Screen name="Splashscreen" component={Splashscreen} options={{ headerShown:false }} />
-          <Stack.Screen name="Home" component={Home} options={{ headerShown:false }} />
+          <Stack.Screen 
+            name="Splashscreen"
+            component={Splashscreen} 
+            initialParams={{ data: null }}
+            options={{ headerShown:false }} />
+          <Stack.Screen 
+            name="Home" 
+            component={Home} 
+            options={{ headerShown:false }} />
         </Stack.Navigator>
       </NavigationContainer>
     </>
-    // <SafeAreaView style={{flex:1}}>
-    //   {/* <Splashscreen /> */}
-    //   <Home />
-    // </SafeAreaView>
   )
 }
 

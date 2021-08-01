@@ -20,7 +20,7 @@
     "music-hipnoterapi-fail" : "Mohon maaf kami tidak dapat mengidentifikasi jawaban kamu, harap menggunakan kata kunci HIPNOTERAPI atau MUSIK ?",
     "music-nature-fail" : "Mohon maaf kami tidak dapat mengidentifikasi jawaban kamu, harap menggunakan kata kunci MUSIK TEMPO LAMBAT atau MUSIK ALAM ?",
     
-    "music-success" : "Saya akan memutar *, silakan cari posisi duduk yang nyaman, Sesi ini terdiri dari 3 sampai 5 sesi dengan durasi yang bervariasi. Jika kamu jenuh pada sesi 1 dan ingin mencari suasana baru, kau dapat berpindah pada sesi 2 dengan mengusap layar dari kiri ke kanan dan jika ingin menjeda audio atau musi kamu dapat mengetuk layar 1 kali dan jika kamu ingin keluar pada sesi meditasi kamu dapat mengetuk layar 2 kali",
+    "music-success" : "Saya akan memutar *, silakan cari posisi duduk yang nyaman, Sesi ini terdiri dari 3 sampai 5 sesi dengan durasi yang bervariasi. Jika kamu jenuh pada sesi 1 dan ingin mencari suasana baru, kau dapat berpindah pada sesi selanjutnya dengan mengusap layar dari kiri ke kanan dan jika ingin menjeda audio atau musi kamu dapat mengetuk layar 1 kali dan jika kamu ingin keluar pada sesi meditasi kamu dapat mengetuk layar 2 kali",
     
     "not-found" : "Mohon maaf, kami tidak dapat mengidentifikasi keluhan yang kamu maksud, harap untuk menyebutkan kata kunci 'Cemas', 'Stres', 'Insomnia', 'Susah Tidur', dan 'Khawatir'",
     "wrong-key" : "Mohon maaf, kami tidak dapat mengidentifikasi jawaban kamu, silakan menyebutkan kata kunci YA atau TIDAK"
