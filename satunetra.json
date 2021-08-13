@@ -23,7 +23,7 @@
     
     "insomnia" : "Insomnia atau susah tidur bisa terjadi ketika kamu tidak bisa menjernihkan pikiran dan mudah terdistraksi terhadap suara bising yang ada di sekitarmu. Ada beberapa alternatif untuk mengatasi susah tidur seperti menghitung secara pelan angka 1 sampai 10 atau membayangkan domba melewati pagar dan menghitungnya. Tapi jika tingkat susah tidur atau insomniamu tidak bisa tertolong dengan alternatif yang telah disebutkan, kami bisa merekomendasikan musik seperti lagu bertempo lambat atau musik dengan suara alam. apakah kamu ingin mencobanya ? ucapkan kata kunci YA atau TIDAK",
 
-    "false" : "Baiklah tampaknya kamu butuh istirahat dan waktu sendiri, manfaatkan waktumu untuk menjernihkan pikiran. Terima kasih telah mennggunakan Satunetra sebagai sahabatmu",
+    "false" : "Baiklah tampaknya kamu butuh istirahat dan waktu sendiri, manfaatkan waktumu untuk menjernihkan pikiran. Terima kasih telah menggunakan Satunetra sebagai sahabatmu, bagaimana pendapat anda tentang SatuNetra",
     
     "music-hipnoterapi" : "Apakah kamu ingin memutar audio HIPNOTERAPI atau MUSIK?",
     
@@ -37,5 +37,7 @@
     
     "not-found" : "Mohon maaf, kami tidak dapat mengidentifikasi keluhan yang kamu maksud, harap untuk menyebutkan kata kunci 'Cemas', 'Stres', 'Insomnia', 'Susah Tidur', dan 'Khawatir'",
     
-    "wrong-key" : "Mohon maaf, kami tidak dapat mengidentifikasi jawaban kamu, silakan menyebutkan kata kunci YA atau TIDAK"
+    "wrong-key" : "Mohon maaf, kami tidak dapat mengidentifikasi jawaban kamu, silakan menyebutkan kata kunci YA atau TIDAK",
+    
+    "feedback" : "Terima kasih telah menggunakan SatuNetra sebagai sahabatmu, bagaimana pendapat anda tentang SatuNetra ?"
 }
